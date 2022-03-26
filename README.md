@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Madhavi Radder <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="28px"></h1>
+<h3 align="center">A passionate full stack web developer from India</h3>
 
 <!--
 **madhavi-radder/madhavi-radder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
