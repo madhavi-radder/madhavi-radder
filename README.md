@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ajju2748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajju2748" height="35" width="45" /></a>
-<a href="https://linkedin.com/in/mallikarjuna-annigeri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mallikarjuna-annigeri" height="35" width="45" /></a>
+<a href="https://twitter.com/MadhaviRadder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajju2748" height="35" width="45" /></a>
+<a href="https://linkedin.com/in/madhavi-radder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mallikarjuna-annigeri" height="35" width="45" /></a>
 <a href="https://instagram.com/_prince______aj27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_prince______aj27" height="35" width="45" /></a>
 </p>
 
